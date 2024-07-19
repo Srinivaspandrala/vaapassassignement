@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.bg-image{
+  background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/06/Black-and-Red-Background-HD-Free.jpg');
+  background-size: cover;
+  height: auto,100vh;
+};
+
